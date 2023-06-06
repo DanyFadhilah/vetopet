@@ -1,0 +1,36 @@
+.service{
+    margin-top: 95px;
+    background-image: url(/image/bg_service.png);
+    height: 200px;
+    padding: 80px;
+    background-size: cover;
+}
+
+.bg_purple{
+    margin-top: 0px;
+}
+
+.service1 .t_putih{
+    width: 60% !important;
+}
+
+.card{
+    background: none !important;
+    border: none !important;
+    box-shadow: none;
+}
+
+.card-title{
+    color: #FFCC80 !important;
+    border: none;
+}
+
+.card-text{
+    color: white !important;
+}
+
+form{
+    background-color: white;
+    padding: 5%;
+    border-radius: 4px;
+}

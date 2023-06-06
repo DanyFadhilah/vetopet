@@ -1,0 +1,168 @@
+@font-face {
+    font-family: 'roboto_medium';
+    src: url('/fonts/Roboto-Medium.ttf');
+}
+
+@font-face {
+    font-family: roboto_regular;
+    src: url('/fonts/Roboto-Regular.ttf');
+}
+
+.navbar-fixed{
+    margin-top: -8px;
+    position: fixed;
+    width: 100%;
+    background-color: white;
+    z-index: 1;
+    box-shadow: 0 6px 10px rgba(0,0,0,.08), 0 0 6px rgba(0,0,0,.05);
+}
+
+.judul1{
+    color: #3C424B;
+    font-size: 90px;
+    line-height: 105.4%;
+    letter-spacing: -1%;
+    margin-top: 100px;
+    font-family: 'Pangolin', cursive;
+    font-size: 50pt;
+    width: 70%;
+    text-align: left;
+}
+
+.judul2{
+    color: #FF6A00;
+}
+
+h1{
+    font-family: roboto_medium;
+}
+
+p{
+    font-family: roboto_regular;
+    font-size: 13pt;
+}
+
+h3{
+    font-family: roboto_medium;
+}
+
+.t_purple{
+    color: #82378C;
+}
+
+.t_putih{
+    color: white;
+}
+
+.t_orange{
+    color: #FF6A00;
+}
+
+.bg_purple{
+    background-color: #82378C;
+    margin-top: -26px;
+    height: 100vh;
+    margin-bottom: -30px;
+}
+
+.regist{
+    margin-top: 100px !important;
+}
+
+.kiri{
+    margin-top: 100px !important;
+}
+
+.kiri img{
+    margin-top: -17px;
+}
+
+.kanan{
+    background-color: white;
+    padding: 150px;
+    text-align: center;
+}
+
+.kanan img{
+    margin-left: -600px;
+    width: 5%;
+    margin-top: -200px;
+}
+
+.kanan button{
+    width: 100%;
+    background-color: #FF6A00;
+    border: none;
+}
+
+.kanan h1{
+    margin-bottom: 20px;
+}
+
+.ms-10{
+    margin-left: 109px;
+}
+
+.bg_white{
+    margin-top: -70px;
+}
+
+.kiri_signin{
+    justify-content: left !important;
+    text-align: left;
+    background-color: #82378C;
+    color: white;
+    height: 100vh;
+    margin-top: 45px !important;
+    margin-bottom: -30px;
+}
+
+.kiri_signin a{
+    color: white;
+    text-decoration: none;
+}
+
+.teks_signin{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.btn_login{
+    margin-left: 237px !important;
+    width: 40% !important;
+}
+
+.btn_to_signup{
+    width: 20%;
+    justify-content: center;
+    border-radius: 40px;
+    height: 5%;
+    background-color: #FF6A00;
+    border: none;
+    margin-left: 310px;
+}
+
+.btn_to_signup a{
+    color: white !important;
+    text-decoration: none;
+}
+
+.btn_to_signup:hover{
+    background-color: #ff8127;
+    border: 1px solid #FF6A00;
+}
+
+.tagline{
+    color: #82378C;
+    text-align: center;
+}
+
+.logo{
+    margin-left: 250px;
+    margin-top: 5% !important;
+}
+
+.kanan_signin a img{
+    width: 5%;
+    margin-top: 100px;
+}

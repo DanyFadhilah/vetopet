@@ -1,0 +1,70 @@
+.navbar-fixed{
+    /* background-color: #FEF7C1 ; */
+}
+
+.bg_yellow{
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+
+.not-found{
+    margin-bottom: 305px;
+}
+
+.bg_putih{
+    background-color: white;
+    border-radius: 10px;
+    padding: 1%;
+    margin-bottom: 20px;
+}   
+
+form{
+    float: right;
+    margin-top: 10px;
+}
+
+.category{
+    width: 10%;
+    float: right;
+}
+
+.judul{
+    width: 20%;
+    float: left;
+    margin-top: 5px;
+}
+
+#quantity{
+    border: none;
+    width: 30%;
+}
+
+.btn_add_cart{
+    width: 100%;
+    border: none;
+    background-color: #82378C;
+    color: white;
+    border-radius: 5px;
+    height: 40px;
+    margin-top: 20px;
+}
+
+.card{
+    max-height: 500px;
+}
+
+.card-title{
+    min-height: 70px;
+    width: 100%;
+}
+
+.card-harga{
+    color: black;
+    font-weight: bold;
+}
+
+.card-stok{
+    font-size: 15px;
+    margin-bottom: -6px;
+    margin-top: -12px;
+}

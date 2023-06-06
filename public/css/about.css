@@ -1,0 +1,10 @@
+.konten{
+    margin-top: 150px;
+}
+
+.kanan img{
+    background-image: url('/image/cap_kaki.png');
+    margin-top: 37px;
+    margin-bottom: -73px;
+    background-size: cover;
+}
